@@ -1,0 +1,33 @@
+body {
+    padding-top: 50px;
+
+}
+
+#sliderWrapper {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 600px;
+
+}
+
+.img-thumb {
+    width: auto;
+    height: 200px;
+
+}
+
+#footer {
+    margin-top: 50px;
+
+}
+img.details {
+    width: 33%;
+    margin: 15px auto;
+
+}
+
+.table-auto{
+    width: 50%;
+    margin: 0 auto;
+}
